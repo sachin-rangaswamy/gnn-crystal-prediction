@@ -50,3 +50,20 @@ Crystalline materials are naturally represented as graphs, where atoms are nodes
    ```bash
    git clone https://github.com/your-username/gnn-crystal-prediction.git
    cd gnn-crystal-prediction
+
+
+
+
+
+## Acknowledgments
+
+This project was made possible thanks to the following resources and tools:
+
+- **[PyTorch Geometric](https://pytorch-geometric.readthedocs.io/)**: A library for deep learning on graphs and irregular structures.
+- **[Materials Project](https://materialsproject.org/)**: A database of crystal structures and material properties.
+- **[pymatgen](https://pymatgen.org/)**: A Python library for materials analysis.
+- **[NumPy](https://numpy.org/)**: For numerical computations in Python.
+- **[Matplotlib](https://matplotlib.org/)**: For creating visualizations.
+- **[scikit-learn](https://scikit-learn.org/)**: For machine learning tools and utilities.
+
+Special thanks to the open-source community for their contributions and support!
